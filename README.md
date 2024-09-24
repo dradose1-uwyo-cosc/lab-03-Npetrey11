@@ -1,12 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Nikita Petrey]
+## [Assignment #03]
+## [Submission date: 09/23/24]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* Python Crash Course 3rd edition.
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* 
